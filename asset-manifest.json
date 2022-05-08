@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/firstwebapp/static/css/main.c343de77.css",
-    "main.js": "/firstwebapp/static/js/main.ff563bb8.js",
-    "static/media/Profile photo.jpg": "/firstwebapp/static/media/Profile photo.d18384cfc331b0759164.jpg",
-    "static/media/instagram-icon.svg": "/firstwebapp/static/media/instagram-icon.6e55471e66540d10a7460d16db788fa7.svg",
-    "static/media/github-icon.svg": "/firstwebapp/static/media/github-icon.4786726d5f792026c3e3084ae7f57309.svg",
-    "static/media/twitter-icon.svg": "/firstwebapp/static/media/twitter-icon.5afe82cd446e2896fbe272ab12ef79a4.svg",
-    "static/media/linkedin-icon.svg": "/firstwebapp/static/media/linkedin-icon.19612fdb23c98848437a9163121397e7.svg",
-    "static/media/facebook-icon.svg": "/firstwebapp/static/media/facebook-icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
-    "index.html": "/firstwebapp/index.html",
-    "static/media/email-icon.svg": "/firstwebapp/static/media/email-icon.9a2254b41727510aba0d31da7ad223f9.svg",
-    "main.c343de77.css.map": "/firstwebapp/static/css/main.c343de77.css.map",
-    "main.ff563bb8.js.map": "/firstwebapp/static/js/main.ff563bb8.js.map"
+    "main.css": "/business_card/static/css/main.c343de77.css",
+    "main.js": "/business_card/static/js/main.ff137015.js",
+    "static/media/Profile photo.jpg": "/business_card/static/media/Profile photo.d18384cfc331b0759164.jpg",
+    "static/media/instagram-icon.svg": "/business_card/static/media/instagram-icon.6e55471e66540d10a7460d16db788fa7.svg",
+    "static/media/github-icon.svg": "/business_card/static/media/github-icon.4786726d5f792026c3e3084ae7f57309.svg",
+    "static/media/twitter-icon.svg": "/business_card/static/media/twitter-icon.5afe82cd446e2896fbe272ab12ef79a4.svg",
+    "static/media/linkedin-icon.svg": "/business_card/static/media/linkedin-icon.19612fdb23c98848437a9163121397e7.svg",
+    "static/media/facebook-icon.svg": "/business_card/static/media/facebook-icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "index.html": "/business_card/index.html",
+    "static/media/email-icon.svg": "/business_card/static/media/email-icon.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.c343de77.css.map": "/business_card/static/css/main.c343de77.css.map",
+    "main.ff137015.js.map": "/business_card/static/js/main.ff137015.js.map"
   },
   "entrypoints": [
     "static/css/main.c343de77.css",
-    "static/js/main.ff563bb8.js"
+    "static/js/main.ff137015.js"
   ]
 }
