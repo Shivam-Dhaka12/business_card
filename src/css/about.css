@@ -1,0 +1,46 @@
+@import url('https://rsms.me/inter/inter.css');
+
+@media only screen and (max-width: 900px) {
+    .about {
+        width: 100%;
+        margin: 0 auto;
+        background-color: #1A1B21;
+        padding: 20PX;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 901px) {
+    .about {
+        width: 40%;
+        margin: 0 auto;
+        background-color: #1A1B21;
+        padding: 20PX;
+        color: white;
+    }
+}
+
+
+.about > * {
+    width: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    background-color: #1A1B21;
+}
+
+p{
+    padding: 5px 40px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+    /* or 15px */
+    color: #DCDCDC;
+}
+
+h2{
+    font-size: 19px;
+    padding: 5px 40px;
+    font-weight: 700;
+    line-height: 150%;
+    color: #F5F5F5;
+}

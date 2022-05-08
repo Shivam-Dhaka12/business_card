@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #23252C;
+}
+
+.app {
+    width: 100%;
+}
+

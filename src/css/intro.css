@@ -1,0 +1,117 @@
+@import url('https://rsms.me/inter/inter.css');
+
+
+@media only screen and (max-width: 900px) {
+    .intro {
+        width: 100%;
+        margin: 0 auto;
+        background-color: #1A1B21;
+        padding: 20PX;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 901px) {
+    .intro {
+        width: 40%;
+        margin: 0 auto;
+        background-color: #1A1B21;
+        padding: 20PX;
+        color: white;
+    }
+}
+
+
+.intro > * {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    background-color: #1A1B21;
+}
+
+.profile{
+    display: block;
+    padding: 0;
+    width: 55%;
+    height: 45%;
+    border: none;
+    border-radius: 13px;
+    margin : 0px auto;
+}
+
+h1 {
+    margin: 21px 0 0px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #E8DED1;
+}
+
+.btn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 20px;
+}
+
+.btn-items {
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: none;
+    margin: 0px;
+    text-align: center;
+    background-color: white;
+}
+
+a {
+    width: 40%;
+    text-decoration: none;
+    margin: 0 5px;
+
+}
+
+.linkedin-icon {
+    background-color: #5093E2;
+    margin: 0 10px 0 -10px;
+}
+
+.email-icon {
+    background-color: white;
+    margin: 0 10px 0 -10px;
+}
+
+.email:hover{
+    background-color: #E8DED1;
+}
+
+.email:active{
+    background-color: white;
+}
+
+.linkedin {
+    background-color: #5093E2;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+
+.linkedin:hover{
+    background-color: #3279ca;
+}
+
+.linkedin:active{
+    background-color: #5093E2;
+}
